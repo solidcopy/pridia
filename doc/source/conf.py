@@ -13,7 +13,9 @@ author = 'solidcopy'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'sphinxcontrib.plantuml',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
