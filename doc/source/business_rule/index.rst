@@ -7,3 +7,4 @@
 
    001_activity_status
    002_progress
+   003_artwork
