@@ -19,3 +19,9 @@
    u014_record_appreciation_again
    u015_correct_appreciation
    u016_correct_artwork
+   u017_record_trade
+   u018_correct_trade
+   u019_register_item
+   u020_correct_item
+   u021_abandon_item
+   u022_list_incomplete_trades
