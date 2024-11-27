@@ -10,3 +10,5 @@
    003_artwork
    004_item
    005_foreign_currency_trade
+   006_appreciation
+   007_one_of_appreciations
