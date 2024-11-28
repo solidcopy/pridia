@@ -29,3 +29,7 @@
    u020_correct_item
    u021_abandon_item
    u022_list_incomplete_trades
+   u027_register_subscription
+   u028_update_subscription
+   u029_unsubscribe_subscription
+   u030_add_payment_of_subscription

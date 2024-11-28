@@ -12,3 +12,4 @@
    005_foreign_currency_trade
    006_appreciation
    007_one_of_appreciations
+   008_subscribe
