@@ -34,3 +34,4 @@
    u029_unsubscribe_subscription
    u030_add_payment_of_subscription
    u031_define_payment_timing
+   u032_record_unregistered_trades
