@@ -33,3 +33,4 @@
    u028_update_subscription
    u029_unsubscribe_subscription
    u030_add_payment_of_subscription
+   u031_define_payment_timing
