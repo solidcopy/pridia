@@ -13,3 +13,4 @@ pridia
 
    usecase/index
    business_rule/index
+   entity/index
